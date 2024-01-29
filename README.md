@@ -1,2 +1,7 @@
 # pandas-challenge
-Assignment 4 Pandas
+
+1) In this dataset, Reading, Math and Overall scores were lower in schools serving more than 2000 students, suggesting that small and mid-sized schools provide better educational support for students, with mid-sized schools slightly outperforming smaller schools.  One hypothsesis to investigate is whether smaller schools receiving fewer dollars overall may be at a disadvantage to provide extra support/educational services than mid-sized schools.
+
+2) Surprisingly, the amount of money spent per student did not correlate with better scores.  It may be that the additional money spent per student may be attributed to a higher level of social services provided in lower-income districts like free-lunch programs, or after-school programs providing support to working parents.  These are important services, but these expenditures may not lead to higher test scores.  The current dataset does not detail where the money was invested; additional study would be needed to determine how the money was spent across differently-sized schools.  
+
+3) Charter schools in this dataset significantly outperformed District schools.  A follow-up study should be pursued to look at additional attributes of Charter vs District schools.  School size may be one factor, but are there others?  Can we apply what is working in Charter schools in the District schools as well?
